@@ -1,4 +1,5 @@
 # Flytbase
+The project involves designing a system for a big corporation to survey/map its campuses/sites using drones. The system allows users to manage multiple drones assigned to specific campuses/sites and create missions assigned to those sites. The missions can be categorized into path, grid/survey, and corridor types. The system also allows users to manage sites, drones, and missions through backend CRUD services, and shift drones from one site to another. It also includes the ability to manage custom categories, associate them with missions, and retrieve missions/drones by category. The system uses JWT for API authentication and MongoDB to save and retrieve user data.
 Backend for flytbase app made using node.js, Express framework
 
 ## Installation
